@@ -5,7 +5,12 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development && Update the Database
+### Update the Database
+```
+python3 data.py
+```
+
+### Compiles and hot-reloads for development
 ```
 npm start
 ```
